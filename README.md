@@ -4,11 +4,11 @@ Disclaimer: I don't claim ownership of these codes. In fact, in several cases, t
 
 In particular, I am thankful to the following Youtube creators on this topic:
 
-*codebasics 	
+**Codebasics** 	
 
-*krish naik
+***krish naik**
 
-*ritvikmath
+***ritvikmath**
 
 *unfold data science 
 
